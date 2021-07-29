@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\web dev practicals"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web dev practicals"
+	}
+}

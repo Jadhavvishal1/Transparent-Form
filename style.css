@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: url("candle.jpg") no-repeat 
+    center  center fixed
+     ;
+     background-size: cover;
+
+    color:white;
+    /* float: left; */
+    text-align: center;
+    /* background-color: black; */
+    /* background-image: black; */
+}
+.container{
+    /* border: 2px solid black; */
+    color: white;
+    position: absolute;
+    float: left;
+    top: 5%;
+    margin: 44px;
+    
+
+    
+}
+.container h1 {
+    display: inline-block;
+    font-size: 40px;
+    border-bottom: 2px solid purple;
+    margin: 30px 10px;
+    padding: 3px 2px;
+    margin-left: -110px;
+    width: 50%;
+    text-align: left;
+
+    
+}
+.box{
+    width: 100%;
+    margin: 12px 0px;
+    padding: 4px;
+    /* border: 2px solid red; */
+    background: none ;
+    border-bottom: 1px solid purple;
+    color: white;
+
+}
+.box input {
+    background: none;
+    width: 75%;
+    border: none;
+    outline: none;
+    /* color: white; */
+    /* margin: 14px 0px; */
+    font-weight: 20px;
+    color:white;
+    font-size: 20px;
+    padding: 10px;
+    /* page-break-after: 12px 0px; */
+    border-radius: 10px;
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+    /* width: 25%; */
+    margin: 40px 0;
+    padding: 6px;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid purple;
+    font-size: 15px;
+    
+    font-size: 25px;
+    color: gray;
+    padding: 10px 5px;
+    background: none;
+    font-weight: bold;
+    margin-left: -110px;
+
+}
+ .btn:hover{
+    background-color: white;
+color:lightgray;
+color:black;
+opacity: 0.5;
+}
+
+.box i {
+width: 25px;
+text-align: center;
+/* padding: 14px 0px; */
+
+margin-left: -240px;
+margin: 4px;
+margin-left: 4px;
+font-size: 20px;
+margin-left: -10px;
+}
